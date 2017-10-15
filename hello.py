@@ -7,3 +7,7 @@ str_03="%s %s"%(str_01,str_02)
 
 print(str_03)
 
+for i in range(10):
+    print(i)
+print('finish!!!')
+
